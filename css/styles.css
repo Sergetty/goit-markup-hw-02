@@ -69,6 +69,7 @@ a {
   letter-spacing: 0.04em;
   background: #4d5ae5;
   color: #fff;
+  cursor: pointer;
 }
 .section-button:hover,
 .section-button:focus {
