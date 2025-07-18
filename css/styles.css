@@ -99,9 +99,6 @@ a {
 .page-team {
   background-color: #f4f4fd;
 }
-.team-list {
-  background-color: #ffffff;
-}
 .team-heading {
   font-size: 36px;
   line-height: 1.11;
@@ -124,4 +121,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+}
+.list-item-team {
+  background-color: #ffffff;
 }
